@@ -27,7 +27,7 @@ SECRET_KEY = 'm-y%rh7m=bio3^j(&x6-z7vzw^v+6+n5f8u7s8df4#7$@c!g_b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['www.flameo.co', 'flameo.co']
+ALLOWED_HOSTS = ['www.flameo.co', 'flameo.co', 'flameo.herokuapp.com']
 
 
 # Application definition
