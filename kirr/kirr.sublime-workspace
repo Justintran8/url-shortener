@@ -40,15 +40,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/justin/Desktop/trydjango110",
 		"/Users/justin/Desktop/trydjango110/src",
-		"/Users/justin/Desktop/trydjango110/src/shortener",
-		"/Users/justin/Desktop/trydjango110/src/shortener/templates",
-		"/Users/justin/Desktop/trydjango110/src/shortener/templates/shortener",
+		"/Users/justin/Desktop/trydjango110/src/analytics",
+		"/Users/justin/Desktop/trydjango110/src/kirr",
+		"/Users/justin/Desktop/trydjango110/src/kirr/__pycache__",
+		"/Users/justin/Desktop/trydjango110/src/kirr/settings",
 		"/Users/justin/Desktop/trydjango110/src/staticfiles"
 	],
 	"file_history":
 	[
+		"/Users/justin/Desktop/trydjango110/src/kirr/settings/__init__.py",
+		"/Users/justin/Desktop/trydjango110/src/kirr/settings/production.py",
+		"/Users/justin/Desktop/trydjango110/src/kirr/settings/local.py",
+		"/Users/justin/Desktop/trydjango110/src/kirr/old_settings.py",
+		"/Users/justin/Desktop/trydjango110/src/.gitignore",
 		"/Users/justin/Desktop/trydjango110/src/kirr/settings.py",
 		"/Users/justin/Desktop/trydjango110/src/shortener/views.py",
 		"/Users/justin/Desktop/trydjango110/src/shortener/forms.py",
