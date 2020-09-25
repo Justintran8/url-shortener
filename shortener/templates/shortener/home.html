@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1 class="cover-heading">{{ title }}</h1>
+     <p class='lead'>Paste a URL</p>   
+<p class="lead">
+        <div class='text-center'>
+            <div style="width:550px; margin:0 auto;">
+                <form method='POST' action='.'> {% csrf_token %}
+                
+                    {{ form.as_p }}
+                    <input class='btn btn-primary' type='submit' value='Shorten &raquo;' >
+                </form>
+            </div>
+        </div>
+</p>
+
+
+{% endblock content %}
